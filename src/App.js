@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <p className="App-intro">
-          To get started, request <code>Soumyojit</code> to save and reload.
+          To deploy changes from feature branch, request <code>Soumyojit</code> to save and load the changes.
         </p>
       </div>
     );
